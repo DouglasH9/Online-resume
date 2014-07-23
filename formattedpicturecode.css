@@ -1,0 +1,15 @@
+#headerpic {
+
+	background-image: url(https://scontent-b-ord.xx.fbcdn.net/hphotos-xfp1/t1.0-9/p180x540/10402385_808199355678_8931775607100532918_n.jpg);
+		background-size:contain;
+		background-position: center;
+		background-repeat: no-repeat;
+		height:100%;
+		width:100%;
+		border-radius:50%;
+		position:relative;
+		height:150px;
+		width:200px;
+		left:20%;
+		
+		

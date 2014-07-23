@@ -1,0 +1,136 @@
+body {
+	background: #E4EFF5;
+	
+	font-family:Arial;
+
+}
+
+
+
+
+.container {
+	border:2px solid black; 
+	border-radius: 5px;
+	margin:3%;
+	background-color: #F2EADA;
+	background: linear-gradient (to right bottom, #F2EADA, #F7E1B5);
+
+}	
+
+
+div {display: block;}
+
+a {
+	font-family:"Arial Black";
+	text-decoration: none;
+	color:#340C75;
+}
+a:hover {
+	color:#3D0AAB;
+}
+a:visited {
+	color:610A45;
+	font-family:Arial;}
+
+h1 {
+	text-align: center;
+	font-family: Arial, Serif;
+
+}
+
+
+#headertext {	
+		padding:5px;
+		text-align: center;
+		position: relative;
+		
+	}
+
+
+
+h2 {
+	font-family: "Arial Black", Arial;
+	text-align: center;
+	font-weight:bold;
+
+}
+.education {
+	position:relative;
+}
+.bold {
+	font-size:22px;
+	font-family: "Arial Black", Arial;
+	font-weight: bold;
+}
+
+.edtable {
+	font-weight:bold;
+}
+li {
+	font-size:20px;
+}
+.objective {
+	clear:both;
+	position:relative;
+	padding: 20px;
+	text-align: center;
+}
+.employment {
+	position: relative;
+	text-align: center;
+}
+
+#emplist{	
+	position:relative;
+	display:inline-block;
+	text-align: left;
+	
+}
+.skills {
+	position:relative;
+	text-align: center;
+}
+.interests{
+	position:relative;
+	text-align:center;
+}
+#interests  {
+	position:relative;
+	list-style-type: none;
+	display: inline-block;
+	text-align: left;
+}
+
+.references {
+	position:relative;
+	text-align: center;
+	padding:5px;
+}
+
+
+#bottombar {
+	border-top: 2px solid black;
+	display:block;
+	height:75px;
+	left:2.5%;
+	right:2.5%;
+	background-color: #5DC265;
+	}
+
+#bottombar a {
+
+	font-family:Arial;
+	text-decoration:none;
+	display:block;
+	float:left;
+	color:black;
+	padding:0 30px;
+	line-height: 75px;
+	border-right:2px solid black;
+}
+
+#bottombar a:hover {
+
+	font-family:"Arial Black", Helvetica, Serif;
+	font-weight:bold;
+}
